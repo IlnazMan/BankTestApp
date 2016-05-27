@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">bankapp</string>
+    <string name="title_banks">Банки</string>
+    <string name="title_bank_name">Название</string>
+    <string name="title_bank_address">Адрес</string>
+    <string name="title_bank_bic">БИК</string>
+    <string name="title_bank_tel">Телефон</string>
+    <string name="title_bank_ks">КС</string>
+    <string name="title_bank_city">Город</string>
+    <string name="search_hint">Поиск</string>
+    <string name="toast_limit">Лимит исчерпан!</string>
+</resources>

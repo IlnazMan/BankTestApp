@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DoubleTextView">
+        <attr name="label" format="string|reference" />
+        <attr name="text" format="string|reference" />
+        <attr name="title_padding" format="dimension" />
+        <attr name="title_padding_left" format="dimension" />
+        <attr name="title_padding_right" format="dimension" />
+        <attr name="title_padding_top" format="dimension" />
+        <attr name="title_padding_bottom" format="dimension" />
+        <attr name="title_view_drawable" format="reference" />
+        <attr name="title_margin_left" format="dimension" />
+        <attr name="title_margin_right" format="dimension" />
+        <attr name="value_padding" format="dimension" />
+        <attr name="value_padding_left" format="dimension" />
+        <attr name="value_padding_right" format="dimension" />
+        <attr name="value_padding_top" format="dimension" />
+        <attr name="value_padding_bottom" format="dimension" />
+        <attr name="value_view_drawable" format="reference" />
+        <attr name="value_margin_left" format="dimension" />
+        <attr name="value_margin_right" format="dimension" />
+    </declare-styleable>
+
+</resources>
